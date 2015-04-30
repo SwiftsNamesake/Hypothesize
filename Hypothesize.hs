@@ -28,6 +28,7 @@ import Text.Printf (printf)       --
 import System.IO (hFlush, stdout) -- 
 import Text.Read (readMaybe)      -- 
 import Control.Monad (liftM)
+import System.Random
 
 
 
@@ -101,7 +102,7 @@ play tag initial = do
                        Nothing -> case liftM (suggest tag) (readMaybe reply) of -- TODO: Fix this ugliness
                                       Just True  -> printf "That's right! All hail the empirical genius!\n"                              -- 
                                       Just False -> printf "They say you learn the most from being wrong. So congratulations.\n" >> move -- 
-                                      Nothing    -> printf "That's not one of the possible rules.\n" >> move                             -- 
+                                      Nothing    -> printf "That's not one of the possible rules.\n"                             >> move -- 
 
 
 
