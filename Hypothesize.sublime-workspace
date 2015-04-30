@@ -1,0 +1,1650 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"inter",
+				"intercalate	[a] -> [[a]] -> [a]"
+			],
+			[
+				"ma",
+				"maindo	maindo"
+			],
+			[
+				"m",
+				"maindo	maindo"
+			],
+			[
+				"mod",
+				"module"
+			],
+			[
+				"pa",
+				"paused"
+			],
+			[
+				"pr",
+				"prototype"
+			],
+			[
+				"introd",
+				"introduction"
+			],
+			[
+				"ta",
+				"table-cell"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"u",
+				"unique"
+			],
+			[
+				"ang",
+				"angleOffset"
+			],
+			[
+				"bran",
+				"branchCoords"
+			],
+			[
+				"creat",
+				"create_line"
+			],
+			[
+				"bra",
+				"branches"
+			],
+			[
+				"ra",
+				"random  (function)"
+			],
+			[
+				"main",
+				"Main"
+			],
+			[
+				"save",
+				"saveAsPNG"
+			],
+			[
+				"bin",
+				"bindFrameEvents"
+			],
+			[
+				"loo",
+				"loopFrames"
+			],
+			[
+				"wd",
+				"widgets"
+			],
+			[
+				"adja",
+				"loopAdjacent"
+			],
+			[
+				"shu",
+				"shuffleWords"
+			],
+			[
+				"crea",
+				"createRenderer  (function)"
+			],
+			[
+				"askS",
+				"askSettings"
+			],
+			[
+				"makeS",
+				"makeSizeCallbacks"
+			],
+			[
+				"makeSize",
+				"makeSizeFollowup"
+			],
+			[
+				"size",
+				"sizeFollowup"
+			],
+			[
+				"createFra",
+				"createFrameGrid"
+			],
+			[
+				"choos",
+				"chooseRow"
+			],
+			[
+				"cre",
+				"createEmpty"
+			],
+			[
+				"Image",
+				"PhotoImage  (class)"
+			],
+			[
+				"prim",
+				"primeDivisors"
+			],
+			[
+				"not",
+				"notAboveRoot"
+			],
+			[
+				"isA",
+				"isAbundantSum"
+			],
+			[
+				"ab",
+				"isAbundantSum"
+			],
+			[
+				"load",
+				"loadAndSave"
+			],
+			[
+				"have",
+				"haveBreakfast"
+			],
+			[
+				"yC",
+				"yColMax"
+			],
+			[
+				"yCol",
+				"yColMin"
+			],
+			[
+				"toWo",
+				"pointToWorldCoords"
+			],
+			[
+				"sol",
+				"solveParabola"
+			],
+			[
+				"po",
+				"pointToScreenCoords"
+			],
+			[
+				"poin",
+				"pointToWorldCoords"
+			],
+			[
+				"scree",
+				"screenToWorld"
+			],
+			[
+				"ani",
+				"AnimationState"
+			],
+			[
+				"dur",
+				"durationArgs"
+			],
+			[
+				"ballo",
+				"balloonWidget"
+			],
+			[
+				"PyQ",
+				"PyQt4  (module)"
+			],
+			[
+				"a",
+				"chain  (class)"
+			],
+			[
+				"dict",
+				"dictionary"
+			],
+			[
+				"res",
+				"restartDelay"
+			],
+			[
+				"config",
+				"configurePart"
+			],
+			[
+				"con",
+				"configureText"
+			],
+			[
+				"n",
+				"normalize"
+			],
+			[
+				"su",
+				"sumMultiples"
+			],
+			[
+				"cla",
+				"classyMain"
+			],
+			[
+				"gra",
+				"graphics"
+			],
+			[
+				"char",
+				"characterSet"
+			],
+			[
+				"cha",
+				"characterSet  (variable)"
+			],
+			[
+				"as",
+				"ascii_uppercase  (variable)"
+			],
+			[
+				"alpha",
+				"alphabetDefaults"
+			],
+			[
+				"asci",
+				"ascii_letters  (variable)"
+			],
+			[
+				"ascii_i",
+				"ascii_lowercase  (variable)"
+			],
+			[
+				"ascii",
+				"ascii_uppercase  (variable)"
+			],
+			[
+				"bul",
+				"buildNext"
+			],
+			[
+				"le",
+				"configureLetter  (function)"
+			],
+			[
+				"conf",
+				"configureWord"
+			],
+			[
+				"named",
+				"namedtuple"
+			],
+			[
+				"create_",
+				"create_polygon"
+			],
+			[
+				"onda",
+				"ondragover"
+			],
+			[
+				"webkit-tra",
+				"webkit-transform"
+			],
+			[
+				"margi",
+				"margin-right"
+			],
+			[
+				"geth",
+				"gethostname  (function)"
+			],
+			[
+				"col",
+				"columns"
+			],
+			[
+				"create",
+				"createTable"
+			],
+			[
+				"for",
+				"format"
+			],
+			[
+				"ali",
+				"alignment"
+			],
+			[
+				"replace",
+				"replacements"
+			],
+			[
+				"string",
+				"stringToDouble"
+			],
+			[
+				"jo",
+				"joinOn"
+			],
+			[
+				"try",
+				"try	Try/Except"
+			],
+			[
+				"key",
+				"keypresses"
+			],
+			[
+				"ele",
+				"elementAt	[a] -> Int -> a"
+			],
+			[
+				"cbo",
+				"cbottom"
+			],
+			[
+				"conto",
+				"contourColourBuffer"
+			],
+			[
+				"cont",
+				"contourColourBuffer"
+			],
+			[
+				"colours",
+				"colours"
+			],
+			[
+				"rot",
+				"rotSliders"
+			],
+			[
+				"to",
+				"toString"
+			],
+			[
+				"set",
+				"setVelocity"
+			],
+			[
+				"pyr",
+				"pyramidMesh"
+			],
+			[
+				"py",
+				"pyramidMesh"
+			],
+			[
+				"f",
+				"forv	Vector For Loop"
+			],
+			[
+				"pyra",
+				"pyramidMesh"
+			],
+			[
+				"colo",
+				"colourSize"
+			],
+			[
+				"arra",
+				"ARRAY_BUFFER"
+			],
+			[
+				"if",
+				"ifmain	if __name__ == '__main__'"
+			],
+			[
+				"sha",
+				"shaderProgram"
+			],
+			[
+				"pyram",
+				"pyramidVertices"
+			],
+			[
+				"vi",
+				"viewportHeight"
+			],
+			[
+				"vie",
+				"viewportWidth"
+			],
+			[
+				"numite",
+				"numItems"
+			],
+			[
+				"cubeI",
+				"cubeIndices"
+			],
+			[
+				"cubeVer",
+				"cubeVertexIndices"
+			],
+			[
+				"ar",
+				"ARRAY_BUFFER"
+			],
+			[
+				"bi",
+				"bindBuffer"
+			],
+			[
+				"replc",
+				"replacements"
+			],
+			[
+				"curr",
+				"currIndex"
+			],
+			[
+				"num",
+				"numframes"
+			],
+			[
+				"Rend",
+				"RenderSprite"
+			],
+			[
+				"Anim",
+				"AnimateSprite"
+			],
+			[
+				"Creat",
+				"CreateSprite"
+			],
+			[
+				"Col",
+				"CollideSprite"
+			],
+			[
+				"Handl",
+				"HandleInput"
+			],
+			[
+				"wi",
+				"WIDTH"
+			],
+			[
+				"fram",
+				"frameDelta"
+			],
+			[
+				"get",
+				"getBoundingBox"
+			],
+			[
+				"onMo",
+				"onMouseDown"
+			],
+			[
+				"Create",
+				"CreatePlatforms"
+			],
+			[
+				"text",
+				"textOptions"
+			],
+			[
+				"So",
+				"soundGenerator"
+			],
+			[
+				"p1",
+				"p1Collides"
+			],
+			[
+				"off",
+				"edgeOff"
+			],
+			[
+				"pla",
+				"player"
+			],
+			[
+				"samp",
+				"samples_per_second"
+			],
+			[
+				"sam",
+				"samples_per_second"
+			],
+			[
+				"hi",
+				"hitSound"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "Hypothesize.hs",
+			"settings":
+			{
+				"buffer_size": 4263,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/Haskell/Haskell.sublime-build",
+					""
+				],
+				[
+					"Packages/User/build/HaskellConsole.sublime-build",
+					""
+				],
+				[
+					"Packages/User/build/HaskellConsole.sublime-build",
+					"GHCi"
+				]
+			],
+			[
+				"Packages/Haskell/Haskell.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/User/build/PythonGUI.sublime-build",
+					""
+				],
+				[
+					"Packages/User/build/PythonPrompt.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "save",
+		"selected_items":
+		[
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"co",
+				"Git: Commit"
+			],
+			[
+				"ad",
+				"Git: Add..."
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"buil",
+				"Build With: HaskellConsole"
+			],
+			[
+				"bu",
+				"Build With: HaskellConsole"
+			],
+			[
+				"haskel",
+				"Build With: HaskellConsole"
+			],
+			[
+				"haske",
+				"Build With: HaskellConsole"
+			],
+			[
+				"buid",
+				"Build With: HaskellConsole"
+			],
+			[
+				"ha",
+				"Set Syntax: Haskell"
+			],
+			[
+				"ren",
+				"File: Rename"
+			],
+			[
+				"py",
+				"Set Syntax: Python"
+			],
+			[
+				"cs",
+				"Set Syntax: CSS3"
+			],
+			[
+				"css3",
+				"Set Syntax: CSS3"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"clos",
+				"Project: Close"
+			],
+			[
+				"com",
+				"Git: Commit"
+			],
+			[
+				"k",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"ke",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"htm",
+				"Snippet: html"
+			],
+			[
+				"add",
+				"Git: Add..."
+			],
+			[
+				"snipp",
+				"Snippet: html"
+			],
+			[
+				"snippe",
+				"Snippet: html"
+			],
+			[
+				"haskell",
+				"Set Syntax: Haskell"
+			],
+			[
+				"ghci",
+				"Build With: HaskellConsole - GHCi"
+			],
+			[
+				"gh",
+				"Build With: HaskellConsole - GHCi"
+			],
+			[
+				"close",
+				"Project: Close"
+			],
+			[
+				"build",
+				"Build With: Haskell"
+			],
+			[
+				"hak",
+				"Set Syntax: Haskell"
+			],
+			[
+				"clsoe",
+				"Project: Close"
+			],
+			[
+				"pro",
+				"Project: Save As"
+			],
+			[
+				"lua",
+				"Set Syntax: Lua"
+			],
+			[
+				"settings",
+				"Preferences: Settings - Default"
+			],
+			[
+				"sett",
+				"Preferences: Settings - User"
+			],
+			[
+				"conver",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"tabs",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"projec",
+				"Project: Refresh Folders"
+			],
+			[
+				"sa",
+				"Project: Save As"
+			],
+			[
+				"cl",
+				"Project: Close"
+			],
+			[
+				"sideb",
+				"View: Toggle Side Bar"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"a",
+				"Project: Add Folder"
+			],
+			[
+				"sav",
+				"Project: Save As"
+			],
+			[
+				"pr",
+				"Project: Save As"
+			],
+			[
+				"has",
+				"Set Syntax: Haskell"
+			],
+			[
+				"clo",
+				"Project: Close"
+			],
+			[
+				"C",
+				"Set Syntax: C"
+			],
+			[
+				"conve",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"im",
+				"Set Syntax: PythonImproved"
+			],
+			[
+				"imr",
+				"Set Syntax: PythonImproved"
+			],
+			[
+				"proj",
+				"Project: Save As"
+			],
+			[
+				"sav ",
+				"File: Save All"
+			],
+			[
+				"saav",
+				"Project: Save As"
+			],
+			[
+				"impro",
+				"Set Syntax: PythonImproved"
+			],
+			[
+				"re",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"C++",
+				"Set Syntax: C++"
+			],
+			[
+				"addd",
+				"Project: Add Folder"
+			],
+			[
+				"c",
+				"Set Syntax: C"
+			],
+			[
+				"imp",
+				"Set Syntax: PythonImproved"
+			],
+			[
+				"pyt",
+				"Set Syntax: PythonImproved"
+			],
+			[
+				"git add",
+				"Git: Add Current File"
+			],
+			[
+				"project",
+				"Project: Save As"
+			],
+			[
+				"key",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"comm",
+				"Git: Commit"
+			],
+			[
+				"log",
+				"Git: Log Current File"
+			],
+			[
+				"diff",
+				"Git: Diff Current File"
+			],
+			[
+				"Diff",
+				"Git: Diff Current File"
+			],
+			[
+				"rege",
+				"Set Syntax: Regular Expression"
+			],
+			[
+				"impr",
+				"Set Syntax: PythonImproved"
+			],
+			[
+				"im	",
+				"Set Syntax: PythonImproved"
+			],
+			[
+				"IMPRO",
+				"Set Syntax: PythonImproved"
+			],
+			[
+				"syntax: py",
+				"Set Syntax: PythonImproved"
+			],
+			[
+				"cust",
+				"Git: Custom Command"
+			],
+			[
+				"git",
+				"Git: Graph All"
+			],
+			[
+				"Co",
+				"Git: Commit"
+			],
+			[
+				"git co",
+				"Git: Commit"
+			],
+			[
+				"cu",
+				"Git: Custom Command"
+			],
+			[
+				"push",
+				"Git: Push"
+			],
+			[
+				"pu",
+				"Git: Push Current Branch"
+			],
+			[
+				"inde",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"di",
+				"Git: Diff Current File"
+			],
+			[
+				"d",
+				"Git: Document Selection"
+			],
+			[
+				"blame",
+				"Git: Blame"
+			],
+			[
+				"dif",
+				"Git: Diff Current File"
+			],
+			[
+				"pus",
+				"Git: Push Current Branch"
+			],
+			[
+				"git push",
+				"Git: Push"
+			],
+			[
+				"git b",
+				"Git: Blame"
+			],
+			[
+				"git p",
+				"Git: Push"
+			],
+			[
+				"git ",
+				"Git: Add..."
+			],
+			[
+				"gi",
+				"Git: Push"
+			],
+			[
+				"set syntax:c",
+				"Set Syntax: C"
+			],
+			[
+				"build ",
+				"Build: Build"
+			],
+			[
+				"hask",
+				"Set Syntax: Haskell"
+			],
+			[
+				"indent",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"stage",
+				"Git: Diff Staged Files"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"jav",
+				"Set Syntax: Java"
+			],
+			[
+				"user",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"key ",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"got",
+				"Git: Custom Command"
+			],
+			[
+				"spaces",
+				"Indentation: Convert to Spaces"
+			],
+			[
+				"anno",
+				"Git: Toggle Annotations"
+			],
+			[
+				"commi",
+				"Git: Commit"
+			],
+			[
+				"settins",
+				"Preferences: Settings - Default"
+			],
+			[
+				"setti",
+				"Preferences: Settings - User"
+			],
+			[
+				"user ",
+				"Preferences: Key Bindings - User"
+			],
+			[
+				"bindi",
+				"Preferences: Key Bindings - Default"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"i",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"plain",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"syntax: text",
+				"Set Syntax: Textile"
+			],
+			[
+				"min",
+				"View: Toggle Minimap"
+			],
+			[
+				"mini",
+				"View: Toggle Minimap"
+			],
+			[
+				"jso",
+				"Set Syntax: JSON"
+			],
+			[
+				"gl",
+				"Set Syntax: OpenGL SL"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"reposi",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"c++",
+				"Set Syntax: C++"
+			],
+			[
+				"rein",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"syntax c",
+				"Set Syntax: C"
+			],
+			[
+				"snippet",
+				"Snippet: Object Value JS"
+			],
+			[
+				"lint",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"tab",
+				"Indentation: Convert to Tabs"
+			],
+			[
+				"fold",
+				"Code Folding: Fold Tag Attributes"
+			]
+		],
+		"width": 464.0
+	},
+	"console":
+	{
+		"height": 481.0,
+		"history":
+		[
+			"view.run_command(\"insert_special_symbol\")",
+			"sublime.status_message(\"Arriving late\")",
+			"set_async_timeout(lambda: sublime.status_message(\"Arriving late\"), 1000)",
+			"sublime.set_async_timeout(lambda: sublime.status_message(\"Arriving late\"), 1000)",
+			"sublime.set_async_timeout(1000, lambda: sublime.status_message(\"Arriving late\"))",
+			"sublime",
+			"sublime.Settings.get(\"\")",
+			"sublime.Settings.get()",
+			"sublime.arch()",
+			"sublime.version()",
+			"print(sublime.get_clipboard())",
+			"sublime.get_clipboard()",
+			"sublime.get_clip_board()",
+			"print(\"\\n\".join(dir(sublime.windows()[0])))",
+			"print(\"\\n\".join(dir(sublime.windows()[0]))",
+			"dir(sublime.windows()[0])",
+			"sublime.windows()[0]",
+			"sublime.windows()",
+			"import sublime",
+			"view.windows()",
+			"windows()",
+			"view.run_command(\"example_command\")",
+			"view.run_command(\"insert_special_symbol\")",
+			"view.run_command(\"example_command\")",
+			"view.run_command(\"insert_special_symbol\")",
+			"name",
+			"view.run_command(\"insert_special_symbol\")",
+			"view.run_command(insert_special_symbol)",
+			"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Jonatan/Desktop/Haskell/projects/Cards/Cards.hs",
+		"/C/Users/Jonatan/Desktop/Haskell/projects/Hypothesize/Hypothesize.hs",
+		"/C/Users/Jonatan/Desktop/Web dev/Sudoku/jokewordcount.py",
+		"/C/Users/Jonatan/Desktop/Git Sandbox/saga.txt",
+		"/C/Users/Jonatan/Desktop/Web dev/Sudoku/sudoku.css",
+		"/C/Users/Jonatan/Desktop/Web dev/Sudoku/sudoku.js",
+		"/C/Users/Jonatan/Desktop/Minecraft 1.8.4 Server/server.properties",
+		"/C/Users/Jonatan/Desktop/Minecraft 1.8.4 Server/ops.json",
+		"/C/Users/Jonatan/Desktop/Minecraft 1.8.4 Server/eula.txt",
+		"/C/Users/Jonatan/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Jonatan/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Jonatan/Desktop/Web dev/Sudoku/.gitignore",
+		"/C/Users/Jonatan/AppData/Roaming/Sublime Text 3/Packages/User/snippets/jquery.sublime-snippet",
+		"/C/Users/Jonatan/Desktop/Web dev/Sudoku/CSSudoku.sublime-project",
+		"/C/Users/Jonatan/Desktop/Haskell/projects/Sudoku/.gitignore",
+		"/C/Users/Jonatan/Desktop/Python/projects/SlidePuzzle/.gitignore",
+		"/C/Users/Jonatan/Desktop/Python/modules/SwiftUtils/Console.py",
+		"/C/Users/Jonatan/Desktop/Python/projects/RPG/main.py",
+		"/C/Users/Jonatan/Desktop/Lua/test",
+		"/C/Users/Jonatan/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Jonatan/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/Jonatan/Desktop/Python/projects/RPG/dialogueRPG.sublime-project",
+		"/C/Users/Jonatan/Desktop/Python/projects/RPG/README.md",
+		"/C/Users/Jonatan/Desktop/Python/projects/RPG/LICENSE.md",
+		"/C/Users/Jonatan/Desktop/Python/projects/RPG/LICENESE.md",
+		"/C/Users/Jonatan/Desktop/Python/experiments/DandyConsole.py",
+		"/C/Users/Jonatan/Desktop/Haskell/experiments/CurriedCubes/    Illegal datatype context (use -XDatatypeContexts)",
+		"/C/Users/Jonatan/Desktop/Haskell/experiments/CurriedCubes/curriedCubes.sublime-project",
+		"/C/Users/Jonatan/Desktop/Haskell/examples/Cube/Cube.hs",
+		"/C/Users/Jonatan/Desktop/Haskell/examples/Cube/CurriedCubes.hs",
+		"/C/Users/Jonatan/Desktop/Haskell/examples/Cube/gistfile2.h",
+		"/C/Users/Jonatan/Desktop/Haskell/examples/Sunlight/Sunlight.hs",
+		"/C/Users/Jonatan/Desktop/Haskell/examples/Sunlight/Sunlight.exe",
+		"/C/Users/Jonatan/Desktop/Haskell/examples/Blink/transformers.hs",
+		"/C/Users/Jonatan/Desktop/Haskell/examples/Blink/blink.exe",
+		"/C/Users/Jonatan/Desktop/Haskell/modules/WinUnicodeConIO.hs",
+		"/C/Users/Jonatan/Desktop/Haskell/modules/UnicodeTest.hs",
+		"/C/Users/Jonatan/Desktop/Haskell/examples/Unicode/byteStringPrint.hs",
+		"/C/Users/Jonatan/Desktop/C++/Examples/forestGolf.c",
+		"/C/Users/Jonatan/Desktop/C++/Examples/PNMtoPNG.py",
+		"/C/Users/Jonatan/Dropbox/Norse Scenario (Aom)/1407667771.pnm",
+		"/C/Users/Jonatan/Desktop/C++/Examples/PIAssembly.c",
+		"/C/Users/Jonatan/Desktop/Haskell/examples/Unicode/UnicodeIO.cabal",
+		"/C/Users/Jonatan/Desktop/Haskell/examples/Unicode/bin/Setup.hs",
+		"/C/Users/Jonatan/Desktop/Python/projects/SlidePuzzle/puzzle.gitignore",
+		"/C/Users/Jonatan/Desktop/Python/projects/scoping.py",
+		"/C/Users/Jonatan/Dropbox/Norse Scenario (Aom)/the number guessing game.py",
+		"/C/Users/Jonatan/Desktop/Python/projects/SlidePuzzle/magicnumber.py",
+		"/C/Users/Jonatan/Desktop/Python/projects/SlidePuzzle/LICENSE.md",
+		"/C/Users/Jonatan/Desktop/Python/projects/SlidePuzzle/README.md",
+		"/C/Users/Jonatan/Desktop/Haskell/Haskell.hs",
+		"/C/Users/Jonatan/Desktop/Python/projects/Newtonian/newton.py",
+		"/C/Users/Jonatan/Desktop/Haskell/Utilities.hs",
+		"/C/Users/Jonatan/Desktop/Python/projects/Newtonian/westminster.py",
+		"/C/Users/Jonatan/Desktop/Python/projects/Newtonian/westminister.py",
+		"/C/Users/Jonatan/Desktop/Python/projects/Newtonian/journal/newtonian.html",
+		"/C/Users/Jonatan/Desktop/Hemsida/index.html",
+		"/C/Users/Jonatan/Desktop/project euler/Haskell/Problem 16.hs",
+		"/C/Users/Jonatan/Desktop/Python/projects/Newtonian/.git/config",
+		"/C/Users/Jonatan/Desktop/Python/modules/SwiftUtils/EulerTemplate.py",
+		"/C/Users/Jonatan/Desktop/Python/startup.py",
+		"/C/Users/Jonatan/Desktop/Python/projects/Newtonian/README.md",
+		"/C/Users/Jonatan/AppData/Roaming/.minecraft/versions/1.7.10/1.7.10.jar",
+		"/C/Users/Jonatan/AppData/Roaming/.minecraft/minecraft launcher/bg_main.png",
+		"/C/Users/Jonatan/Desktop/Python/projects/Newtonian/Westminister.py",
+		"/C/Users/Jonatan/Desktop/Python/projects/Newtonian/Newtonian.sublime-project",
+		"/C/Users/Jonatan/Desktop/Python/projects/Newtonian/utilities.py",
+		"/C/Users/Jonatan/Desktop/Python/projects/Newtonian/jay.py",
+		"/C/Users/Jonatan/Desktop/Python/projects/Newtonian/test.py",
+		"/C/Users/Jonatan/Desktop/Python/projects/Hangman/Hangman.sublime-project",
+		"/C/Users/Jonatan/AppData/Roaming/Sublime Text 3/Packages/User/PythonGUI.sublime-build",
+		"/C/Users/Jonatan/AppData/Roaming/Sublime Text 3/Packages/User/PythonPrompt.sublime-build",
+		"/C/Users/Jonatan/Desktop/Python/projects/Hangman/main.py",
+		"/C/Users/Jonatan/Desktop/Python/projects/Newtonian/LICENSE",
+		"/C/Users/Jonatan/Desktop/Python/projects/Newtonian/newtonian.gitignore",
+		"/C/Users/Jonatan/Desktop/Newtonian/utilities.py",
+		"/C/Users/Jonatan/AppData/Roaming/Sublime Text 3/Packages/User/InsertSpecialSymbol.py",
+		"/C/Users/Jonatan/Desktop/Python/projects/Hangman/TODO.md",
+		"/C/Users/Jonatan/Desktop/Python/projects/Hangman/Hangman.py",
+		"/C/Users/Jonatan/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/C/Users/Jonatan/Desktop/Python/projects/Hangman/data/dicts/en_grandiloquent.txt",
+		"/C/Users/Jonatan/Desktop/Python/projects/Hangman/data/dicts/dictionaries.json",
+		"/C/Users/Jonatan/Desktop/Python/regextest.py",
+		"/C/Users/Jonatan/Desktop/Python/projects/SpecialSymbols/InsertSpecialSymbol.py",
+		"/C/Users/Jonatan/Desktop/Python/projects/Hangman/data/dicts/README.md",
+		"/C/Users/Jonatan/Desktop/Python/projects/Hangman/data/settings/README.md",
+		"/C/Users/Jonatan/Desktop/Python/projects/Hangman/data/dicts/animales.txt",
+		"/C/Users/Jonatan/Desktop/Python/projects/Pong.py",
+		"/C/Users/Jonatan/Desktop/Python/projects/Newtonian/ed4a00de-9aba-4429-a228-78821bf9e32a.dmp",
+		"/C/Users/Jonatan/Desktop/WebGL/First Person/FirstPerson.js",
+		"/C/Users/Jonatan/Desktop/WebGL/First Person/MatrixMath.js",
+		"/C/Users/Jonatan/Desktop/Python/projects/Hangman/README.md",
+		"/C/Users/Jonatan/Desktop/Python/projects/Hangman/TODO.txt",
+		"/C/Users/Jonatan/Desktop/Python/projects/Hangman/data/en_merriam_webster.txt",
+		"/C/Users/Jonatan/Desktop/Python/examples/PyQTBalloon.py",
+		"/C/Users/Jonatan/Desktop/Python/examples/SpellCheck.py",
+		"/C/Users/Jonatan/Desktop/Python/projects/GUITestOne.py",
+		"/C/Users/Jonatan/Documents/My Games/Skyrim/SkyrimPrefs.ini",
+		"/C/Users/Jonatan/Desktop/Python/modules/SwiftUtils/SwiftUtils.py",
+		"/C/Users/Jonatan/Desktop/Python/projects/Hangman/data/en_dict_thetoohardforyouversion.txt",
+		"/C/Users/Jonatan/Desktop/WebGL/First Person/Utilities.js",
+		"/C/Users/Jonatan/Desktop/Python/projects/Hangman/README.txt",
+		"/C/Users/Jonatan/Desktop/Python/projects/Hangman/LICENSE.txt",
+		"/C/Users/Jonatan/Desktop/Python/.gitignore",
+		"/C/Users/Jonatan/Desktop/Python/projects/Audiophile.py",
+		"/C/Users/Jonatan/Desktop/Python/projects/AudioTest.py",
+		"/C/Users/Jonatan/Desktop/Python/projects/PygletTest.py",
+		"/C/Users/Jonatan/Desktop/Project Euler/Answer",
+		"/C/Users/Jonatan/Desktop/Project Euler/Problem 1.hs",
+		"/C/Users/Jonatan/Desktop/Project Euler/Problem 1.c",
+		"/C/Users/Jonatan/Desktop/Project Euler/Problem 10 (Prime Summation).hs",
+		"/C/Users/Jonatan/Desktop/Project Euler/Problem 10 (Prime Summation)",
+		"/C/Users/Jonatan/AppData/Roaming/.minecraft/assets/indexes/1.7.4.json",
+		"/C/Users/Jonatan/Desktop/Python/projects/Hangman/data/en_dict.txt",
+		"/C/Users/Jonatan/Desktop/Python/projects/Hangman/en_dict.txt",
+		"/C/Users/Jonatan/Desktop/WebGL/First Person/FirstPerson.sublime-project",
+		"/C/Users/Jonatan/Desktop/Python/projects/Hangman/Utilities.py",
+		"/C/Users/Jonatan/Desktop/Python/projects/Hangman/Main.py",
+		"/C/Users/Jonatan/Desktop/Python/projects/Hangman/Graphics.py",
+		"/C/Users/Jonatan/Desktop/Python/projects/Hangman/Logic.py",
+		"/C/Users/Jonatan/Desktop/Python/examples/CalcTutorial.py",
+		"/C/Users/Jonatan/Desktop/Java/examples/PixelRearrange.java",
+		"/C/Users/Jonatan/Dropbox/Norse Scenario (Aom)/Hangman.py",
+		"/C/Users/Jonatan/Desktop/Python/Hangman.py",
+		"/C/Users/Jonatan/Desktop/Hemsida/Projekt/Bildspel/bildspel.html",
+		"/C/Users/Jonatan/Desktop/Hemsida/Projekt/Bildspel/bildspel.css",
+		"/C/Users/Jonatan/Desktop/Hemsida/Projekt/Bildspel/bildspel.js",
+		"/C/Users/Jonatan/Desktop/Python/modules/SwiftUtils/__init__.py"
+	],
+	"find":
+	{
+		"height": 36.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"--",
+			"printf",
+			"\\n",
+			"\\\\d",
+			"read",
+			"putStrLn $",
+			"Rule",
+			"Multiple",
+			"---------------------------------------------------------------------------------------------------",
+			"#",
+			"headert",
+			"---------------------------------------------------------------------------------------------------",
+			"Section",
+			"#",
+			":",
+			".-",
+			".",
+			"playstate",
+			"column",
+			"{ return this.checkTiles",
+			"{ return this.ch",
+			"{ return this",
+			"{ return",
+			"subgrids",
+			"boardIsValid",
+			" )",
+			"row",
+			"column",
+			"-webkit-transition",
+			"0.2",
+			"	 ",
+			"</div>",
+			"<div class='introduction'>",
+			"set",
+			"indexof",
+			"	",
+			"this",
+			"sudoku",
+			"index",
+			"id",
+			"		<",
+			"\"",
+			"hello",
+			"\"",
+			"tbody",
+			"thead",
+			"\"",
+			":",
+			"	",
+			",",
+			" ++",
+			"a",
+			"Maybe",
+			"	",
+			"x",
+			"dx",
+			"a",
+			"data",
+			" num",
+			"Point",
+			"upp",
+			"low",
+			"row",
+			"col",
+			"number",
+			"all",
+			"foldr",
+			"fg",
+			"	",
+			"nth",
+			"getTile",
+			"Column",
+			"[",
+			"return",
+			"imag",
+			"g",
+			"branch",
+			"beg",
+			"position",
+			"anchor",
+			"4",
+			"name",
+			"options",
+			", ",
+			"colourPrint",
+			"mood",
+			"'",
+			",",
+			")",
+			"''",
+			"'",
+			"IOUtil",
+			",",
+			"getcwd()",
+			"memset",
+			"y",
+			"b",
+			"x",
+			"a",
+			"callable",
+			"loopAd",
+			"widget",
+			"fstTile",
+			"refactored",
+			"isEmpty",
+			"update",
+			"9",
+			"400",
+			"\\",
+			"1)",
+			"image.size",
+			"\\",
+			"image.size[",
+			".",
+			",",
+			"''",
+			"makeSizeFollowup",
+			"input",
+			"function",
+			"print",
+			"frame.col",
+			".col",
+			".empty",
+			"first",
+			"tile",
+			"first",
+			"\\",
+			"empty"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"check",
+			"=",
+			"amp",
+			"'",
+			"/",
+			"'\\1:', \\1,",
+			"delta",
+			"'",
+			"\\n\\t\\t\\t\\t\\tsnow[i]",
+			"\\n\\t\\tvar",
+			"\\t\\t\\nvar",
+			"\\r\\nvar",
+			"lambda",
+			"print \\(\\1\\)\\n",
+			"print \\(\\1\\)",
+			"print \\(\\0\\)",
+			"/",
+			" "
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "Hypothesize.hs",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1220,
+								1220
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/SublimeHaskell/Syntaxes/Haskell-SublimeHaskell.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 600.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 325.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 124.0
+	},
+	"output.haskell_error_checker":
+	{
+		"height": 268.0
+	},
+	"output.haskell_sublime_load":
+	{
+		"height": 130.0
+	},
+	"pinned_build_system": "",
+	"project": "Hypothesize.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"i",
+				"introduction.css"
+			],
+			[
+				"ht",
+				"sudoku.html"
+			],
+			[
+				"s",
+				"sudoku.js"
+			],
+			[
+				"cs",
+				"sudoku.css"
+			],
+			[
+				"ja",
+				"jay.py"
+			],
+			[
+				"te",
+				"test.py"
+			],
+			[
+				"",
+				"jay.py"
+			],
+			[
+				"htm",
+				"FirstPerson.html"
+			],
+			[
+				"ind",
+				"C:\\Users\\Jonatan\\Desktop\\Hemsida\\index.html"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"che",
+				"C:\\Users\\Jonatan\\Desktop\\Haskell\\examples\\Unicode\\chess.sublime-project"
+			],
+			[
+				"",
+				"C:\\Users\\Jonatan\\Desktop\\Python\\projects\\Newtonian\\Newtonian.sublime-project"
+			],
+			[
+				"swi",
+				"C:\\Users\\Jonatan\\Desktop\\Python\\modules\\SwiftUtils\\SwiftUtils.sublime-project"
+			],
+			[
+				"ha",
+				"C:\\Users\\Jonatan\\Desktop\\Python\\projects\\Hangman\\Hangman.sublime-project"
+			],
+			[
+				"Swi",
+				"C:\\Users\\Jonatan\\Desktop\\Python\\modules\\SwiftUtils\\SwiftUtils.sublime-project"
+			],
+			[
+				"ex",
+				"C:\\Users\\Jonatan\\AppData\\Roaming\\Sublime Text 3\\Packages\\User\\ST3Extensions.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 166.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
