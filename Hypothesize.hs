@@ -2,7 +2,7 @@
  - Hypothesize
  - ?
  -
- - Inspired by Veritasium (insert link here)
+ - Inspired by Veritasium (https://www.youtube.com/watch?v=vKA4w2O61Xo&feature=iv&src_vid=vBX-KulgJ1o&annotation_id=annotation_3269472559)
  -
  - Jonatan H Sundqvist
  - April 29 2015
